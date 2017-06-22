@@ -1,0 +1,4 @@
+1. wget https://raw.githubusercontent.com/kuoruan/kcptun_installer/master/kcptun.sh
+2. install kcptun and supervisord
+3. install shadowsocks
+4. install bbr: https://doub.io/wlzy-22/
